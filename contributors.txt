@@ -1,3 +1,4 @@
+
 Format>> 	S.no, Name, City
 
 1., Vaibhav Aswal, Dehradun
@@ -7,4 +8,14 @@ Format>> 	S.no, Name, City
 5., Vijayant Singh, Dehradun
 6., Ajay Nagar, Punjab
 7., Tanishq Jain, Dehradun
-8., Harsh Joshi , Ajmer
+8., Pratik Singh,Dehradun
+9., Garima Agrawal, Azamgarh
+10., Vibhuti, Dehradun
+11., Mohammad Malik, Moradabad
+12., Sujal kumar, Jharkhand
+13., Akashit Kumar singh, Dehradun8., 
+14., Ketan Yadav, JHARKHAND
+15., Palki Arora, dehradun
+16., Amit Pandey,Dehradun
+17., Kumar Sneh,Dehradun
+18., Harsh Joshi , Ajmer
