@@ -6,3 +6,4 @@ Format>> 	S.no, Name, City
 4., Debarghya Chanda, Dehradun
 5., Vijayant Singh, Dehradun
 6., Ajay Nagar, Punjab
+7.,Palki Arora, dehradun
